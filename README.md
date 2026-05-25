@@ -13,62 +13,93 @@ Atuo como estagiário na Prodesp, com toda a prontidão para contribuir ativamen
 ---
 ### 🧠 Linguages e Tecnologias 
 
-#### 🧠 Dominio Prévio
+#### º DOMÍNIO PRÉVIO
 
 <img
     align="left" 
-    alt="HTML"
-    title="HTML" 
+    alt="React"
+    title="React" 
     width="40px" 
-    style="padding-right: 10px;" 
+    style="padding-left: 10px;
+          padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
 <img
     align="left" 
-    alt="HTML"
-    title="HTML" 
+    alt="dbeaver"
+    title="dbeaver" 
     width="40px" 
-    style="padding-right: 10px;" 
+    style="padding-right: 15px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg"/>
 <img
     align="left" 
-    alt="HTML"
-    title="HTML" 
+    alt="postgresql"
+    title="postgresql" 
     width="40px" 
-    style="padding-right: 10px;" 
+    style="padding-right: 15px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg"/>
           
 <img
     align="left" 
-    alt="HTML"
-    title="HTML" 
+    alt="Java Script"
+    title="Java Script" 
     width="40px" 
-    style="padding-right: 10px;" 
+    style="padding-right: 15px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
 <img
     align="left" 
-    alt="HTML"
-    title="HTML" 
+    alt="GIT"
+    title="GIT" 
     width="40px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
-    <br>  
+    style="padding-right: 15px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/> 
 
-#### 🧠 Dominio Aprofundado
+<br>
+<br>
+
+#### º DOMÍNIO APROFUNDADO
 
 <img
     align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
+    alt="C++"
+    title="C++" 
+    width="40px" 
+      style="padding-left: 10px;
+          padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"
     />
 
 <img
     align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"
-    />
+    alt="JAVA 5+"
+    title="JAVA 5+" 
+    width="40px" 
+    style="padding-right: 15px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain-wordmark.svg"/>
+
+<img
+    align="left" 
+    alt="APACHE"
+    title="APACHE" 
+    width="40px" 
+    style="padding-right: 15px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apache/apache-original.svg"/>
+    
+<img
+    align="left" 
+    alt="KOTLIN"
+    title="KOTLIN" 
+    width="40px" 
+    style="padding-right: 15px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg"/>
+
+<img
+    align="left" 
+    alt="KOTLIN"
+    title="KOTLIN" 
+    width="40px" 
+    style="padding-right: 15px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"/>
+
+          
+          
+          
