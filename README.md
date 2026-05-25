@@ -23,6 +23,24 @@ Atuo como estagiário na Prodesp, com toda a prontidão para contribuir ativamen
     style="padding-left: 10px;
           padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+    
+   <img
+    align="left" 
+    alt="Python"
+    title="Python" 
+    width="40px" 
+    style="padding-left: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+
+<img
+    align="left" 
+    alt="GITHUB"
+    title="GITHUB" 
+    width="40px" 
+    style="padding-left: 10px;
+    padding-right: 10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
+                    
 <img
     align="left" 
     alt="dbeaver"
@@ -93,8 +111,8 @@ Atuo como estagiário na Prodesp, com toda a prontidão para contribuir ativamen
 
 <img
     align="left" 
-    alt="KOTLIN"
-    title="KOTLIN" 
+    alt="SQL"
+    title="SQL" 
     width="40px" 
     style="padding-right: 15px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"/>
@@ -105,17 +123,20 @@ Atuo como estagiário na Prodesp, com toda a prontidão para contribuir ativamen
 
 ### 📊 Estatísticas
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=feehKatriz&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats-two-omega-43.vercel.app/api?username=FeehKatriz&show_icons=true&theme=tokyonight&locale=pt-br&include_all_commits=true&cache_seconds=86400"
   />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=feehKatriz&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=feehKatriza&show_icons=true" />
-</picture>
 
-          
-          
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats-two-omega-43.vercel.app/api/top-langs/?username=FeehKatriz&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8" 
+  />
+
+</p>
