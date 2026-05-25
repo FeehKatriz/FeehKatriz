@@ -105,23 +105,17 @@ Atuo como estagiário na Prodesp, com toda a prontidão para contribuir ativamen
 
 ### 📊 Estatísticas
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=FeehKatriz&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=feehKatriz&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
   />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Feehkatriz&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=feehKatriz&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-
-</p>
+  <img src="https://github-readme-stats.vercel.app/api?username=feehKatriza&show_icons=true" />
+</picture>
 
           
           
